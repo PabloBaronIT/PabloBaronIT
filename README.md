@@ -1,2 +1,3 @@
 - 👋 Hi, I'm @PabloBaronIT
 - 👀 Here you can see my proyects
+- 🌐 Take a look of my [personal page](https://pablobaron.com.ar/#!/-pablo-baron/)
